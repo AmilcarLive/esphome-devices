@@ -105,7 +105,7 @@ display:
     cs_pin: GPIO7
     reset_pin: GPIO8
     dc_pin: GPIO4
-
+    invert_colors: false
 touchscreen:
   - platform: ft5x06
     id: touch
